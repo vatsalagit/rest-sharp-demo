@@ -1,0 +1,13 @@
+/Users/Vatsala_Singh_-_BNG/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/RestSharpDemo.dll
+/Users/Vatsala_Singh_-_BNG/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/RestSharpDemo.pdb
+/Users/Vatsala_Singh_-_BNG/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/Newtonsoft.Json.dll
+/Users/Vatsala_Singh_-_BNG/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/nunit.framework.dll
+/Users/Vatsala_Singh_-_BNG/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/RestSharp.dll
+/Users/Vatsala_Singh_-_BNG/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/Newtonsoft.Json.xml
+/Users/Vatsala_Singh_-_BNG/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/RestSharp.xml
+/Users/Vatsala_Singh_-_BNG/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/nunit.framework.xml
+/Users/Vatsala_Singh_-_BNG/RiderProjects/RestSharpDemo/RestSharpDemo/obj/Debug/RestSharpDemo.csprojAssemblyReference.cache
+/Users/Vatsala_Singh_-_BNG/RiderProjects/RestSharpDemo/RestSharpDemo/obj/Debug/RestSharpDemo.csproj.CoreCompileInputs.cache
+/Users/Vatsala_Singh_-_BNG/RiderProjects/RestSharpDemo/RestSharpDemo/obj/Debug/RestSharpDemo.csproj.CopyComplete
+/Users/Vatsala_Singh_-_BNG/RiderProjects/RestSharpDemo/RestSharpDemo/obj/Debug/RestSharpDemo.dll
+/Users/Vatsala_Singh_-_BNG/RiderProjects/RestSharpDemo/RestSharpDemo/obj/Debug/RestSharpDemo.pdb
